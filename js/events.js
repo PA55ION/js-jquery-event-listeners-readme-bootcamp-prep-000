@@ -19,6 +19,9 @@ function pressIt() {
   })
 }
 $(document).ready(function(){
+  getit();
+  frameIt();
+  pressIt();
 
 // call functions here
 
